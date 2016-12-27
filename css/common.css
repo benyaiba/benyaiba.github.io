@@ -1,0 +1,13 @@
+body {
+	background-color: #F0F0F0;
+}
+#index{
+	text-align:center;
+	margin:0 auto;
+	position:absolute;
+	top:40%;
+	left:36%;
+	font-family: "Microsoft YaHei";
+	font-style:oblique;
+	font-size:1.275em;;
+}
