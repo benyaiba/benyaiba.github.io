@@ -6,8 +6,11 @@ body {
 	margin:0 auto;
 	position:absolute;
 	top:40%;
-	left:36%;
+	left:35%;
 	font-family: "Microsoft YaHei";
 	font-style:oblique;
 	font-size:1.275em;;
+}
+canvas{
+	display:block;margin-left: auto;margin-right: auto;
 }
